@@ -10,3 +10,4 @@ git status
 git restore testing.py
 git status
 
+This is some new file
